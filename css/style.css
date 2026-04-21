@@ -122,7 +122,7 @@ body {
 
 
 .hero {
-    background-image: url('../img/first.png');
+    background-image: url('img/first.png');
     background-size: cover;
     background-position: top;
     height: 1300px;
@@ -387,7 +387,7 @@ body.no-scroll {
     top: 0;
     right: 0;
     left: 0;
-    background-image: url('../img/menu.png');
+    background-image: url('img/menu.png');
     background-size: cover;
     background-position: top;
     height: 1300px;
@@ -475,7 +475,7 @@ ul.nav-item {
 
 @media (min-width: 1024px) and (max-width: 1440px) {
     .hero {
-        background-image: url('../img/first.png');
+        background-image: url('img/first.png');
         background-size: cover;
         background-position: top;
         height: 900px;
@@ -642,7 +642,7 @@ ul.nav-item {
 
     .hero {
         height: 800px;
-        background-image: url('../img/mobile.png');
+        background-image: url('img/mobile.png');
     }
 
 
