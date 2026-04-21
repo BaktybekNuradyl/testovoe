@@ -676,7 +676,7 @@ ul.nav-item {
 
     .nav-group.show {
         padding: 15px 10px;
-        background: url(/img/menu-mob.png);
+        background: url(../img/menu-mob.png);
         background-position: center;
         background-size: cover;
         text-align: center;
